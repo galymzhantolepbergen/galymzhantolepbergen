@@ -29,7 +29,8 @@
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galymzhantolepbergen"/ --> 
 
 
-![Galymzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galymzhantolepbergen&theme=algolia&show_icons=true)
+<!-- ![Galymzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galymzhantolepbergen&theme=algolia&show_icons=true) -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=galymzhantolepbergen&show_icons=true&theme=algolia)
 
 
 
