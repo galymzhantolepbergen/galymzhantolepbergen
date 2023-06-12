@@ -3,7 +3,7 @@
 
    
 <a href="https://linkedin.com/in/galymzhantolepbergen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galymzhantolepbergen" height="15" width="20" /></a>
-<!-- <a href="https://www.leetcode.com/galymzhantolepbergen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="galymzhantolepbergen" height="15" width="20" /></a> -->
+
 ![Profile viewers](https://visitor-badge.laobi.icu/badge?page_id=galymzhantolepbergen.galymzhantolepbergen)  
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=galymzhantolepbergen&theme=dark)](https://github.com/galymzhantolepbergen/leetcode-stats)
