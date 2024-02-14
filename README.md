@@ -1,5 +1,6 @@
 <h2 align="center">Hey there 👋, I'm Galymzhan</h2>
-<h3 align="center">~</h3>
+<h4 align="left"> 👀 I’m interested in Full Stack Web Development </h4>
+<h4>🌱 I’m currently learning Js & React </h4>
 
    
 <!--<a href="https://linkedin.com/in/galymzhantolepbergen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galymzhantolepbergen" height="15" width="20" /></a>--> 
